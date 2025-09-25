@@ -1,0 +1,26 @@
+{
+  "doctype": "Course",
+  "fields": [
+    {
+      "label": "Code",
+      "fieldname": "code",
+      "fieldtype": "Data"
+    },
+    {
+      "label": "Name",
+      "fieldname": "name",
+      "fieldtype": "Data"
+    },
+    {
+      "label": "Credits",
+      "fieldname": "credits",
+      "fieldtype": "Int"
+    },
+    {
+      "label": "Faculty",
+      "fieldname": "faculty",
+      "fieldtype": "Link",
+      "options": "Faculty"
+    }
+  ]
+}

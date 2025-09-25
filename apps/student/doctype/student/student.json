@@ -1,0 +1,20 @@
+{
+  "doctype": "Student",
+  "fields": [
+    {
+      "label": "Name",
+      "fieldname": "name",
+      "fieldtype": "Data"
+    },
+    {
+      "label": "Roll No",
+      "fieldname": "roll_no",
+      "fieldtype": "Data"
+    },
+    {
+      "label": "Email",
+      "fieldname": "email",
+      "fieldtype": "Data"
+    }
+  ]
+}

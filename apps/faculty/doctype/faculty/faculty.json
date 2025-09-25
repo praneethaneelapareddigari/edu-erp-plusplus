@@ -1,0 +1,20 @@
+{
+  "doctype": "Faculty",
+  "fields": [
+    {
+      "label": "Name",
+      "fieldname": "name",
+      "fieldtype": "Data"
+    },
+    {
+      "label": "Dept",
+      "fieldname": "dept",
+      "fieldtype": "Data"
+    },
+    {
+      "label": "Email",
+      "fieldname": "email",
+      "fieldtype": "Data"
+    }
+  ]
+}
