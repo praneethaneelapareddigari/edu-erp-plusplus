@@ -117,3 +117,11 @@ edu-erp-plusplus/
 - `GET /api/students/{sid}/courses` → list a student's courses
 - `POST /api/courses/{cid}/assign-faculty/{fid}` → assign faculty to course
 - `GET /api/courses/{cid}/students` and `GET /api/courses/{cid}/faculties` → list mappings
+
+## Screenshots (Gallery)
+
+![Architecture](assets/architecture.png)
+![Swagger Docs](assets/swagger_mock.png)
+![Frappe Student Form](assets/frappe_student_form.png)
+![Analytics Dashboard (Mock)](assets/analytics_mock.png)
+![Tests Passing](assets/tests_passed.png)
